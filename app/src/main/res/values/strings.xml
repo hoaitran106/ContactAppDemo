@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLLite</string>
+    <string name="select_option">Select Option</string>
+    <string name="call">Call</string>
+    <string name="message">Message</string>
+    <string name="delete">Delete</string>
+</resources>
